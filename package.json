@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node buildScripts/srcServer.js"
   },
-  "author": "Cory House",
+  "author": "Usheninte",
   "license": "MIT",
   "dependencies": {
     "whatwg-fetch": "1.0.0"
